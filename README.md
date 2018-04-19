@@ -1,0 +1,1 @@
+# ovladanie-6-rele-static
